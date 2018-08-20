@@ -1,0 +1,25 @@
+{
+  "name": "pageobjectpattern",
+  "version": "0.1.0",
+  "description": "Test Practise",
+  "author": "Igor Stepkin <ihar.stsepkin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GTTHM/PageObjectPattern.git"
+  },
+  "homepage": "https://github.com/GTTHM/PageObjectPattern",
+  "dependencies": {
+    "chromedriver": "^2.41.0",
+    "geckodriver": "^1.12.1",
+    "webdriver-manager": "^12.1.0"
+  },
+  "devDependencies": {
+    "cucumber": "^4.2.1",
+    "protractor": "^5.4.0",
+    "protractor-cucumber-framework": "^6.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/GTTHM/PageObjectPattern/issues"
+  },
+  "license": "ISC"
+}
